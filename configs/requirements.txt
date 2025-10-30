@@ -1,0 +1,14 @@
+# Core ML
+torch
+transformers
+accelerate
+datasets
+huggingface_hub
+
+# Representation analysis
+baukit
+torch-linear-algebra
+
+# Evaluation
+scikit-learn
+wandb

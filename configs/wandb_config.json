@@ -1,0 +1,16 @@
+{
+  "project_name": "constitutional-ai-faithfulness",
+  "entity": null,
+  "notes": "Faithfulness detection in chain-of-thought reasoning",
+  "tags": [
+    "faithfulness",
+    "constitutional-ai",
+    "interpretability"
+  ],
+  "default_config": {
+    "model": "meta-llama/Llama-3-8B-Instruct",
+    "batch_size": 4,
+    "learning_rate": 2e-05,
+    "max_length": 512
+  }
+}
